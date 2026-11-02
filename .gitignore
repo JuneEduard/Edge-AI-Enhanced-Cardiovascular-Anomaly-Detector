@@ -1,0 +1,12 @@
+# Other projects / workspace metadata (not part of this repo)
+.metadata/
+BLE_HeartRate/
+
+# ECG Monitor: build output
+ECG Monitor/Debug/
+ECG Monitor/Release/
+
+# ECG Monitor: machine-specific IDE files
+ECG Monitor/.settings/
+ECG Monitor/*.launch
+ECG Monitor/*.cfg
